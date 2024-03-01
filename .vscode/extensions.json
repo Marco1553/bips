@@ -1,6 +1,7 @@
 {
     "recommendations": [
-        "benjaminbenais.copilot-theme"
+        "benjaminbenais.copilot-theme",
+        "yoavbls.pretty-ts-errors"
     ]
 }
 
